@@ -24,7 +24,7 @@ Extract the library files to a folder on your computer.
 <img src="images/decompressed.png" >
 
 
-Rename the extracted folder to the name of the library (remove any version numbers or other information from the folder name).
+Rename the extracted folder to the name of  the library (remove any version numbers or other information from the folder name).
 
 
 ## Step 3
