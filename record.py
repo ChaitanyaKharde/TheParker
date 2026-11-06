@@ -11,7 +11,7 @@ current_date = str(date.today()).replace('-', '_')
 
 table_name = "record_" + current_date
 
-# creating a table with currenttt date as "record_date" ff 
+# creating a table with currenttt date as "record_date" ff studio studio
 cur.execute(f"CREATE TABLE IF NOT EXISTS " + table_name + " (" +
             """ "lot_id"	TEXT NOT NULL,
                 "lane_id"	TEXT NOT NULL,
