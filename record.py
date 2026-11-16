@@ -39,3 +39,6 @@ def setOutTime(lot_id, lane_id, spot_id):
                 f" SET out_time = '{getCurrentTime()}'"
                 f" where lot_id = '{lot_id}' AND lane_id = '{lane_id}' AND spot_id = '{spot_id}';")
     conn.commit()
+            
+queue = deque([(start, [start])])
+queue = deque([(start, [start])])
