@@ -2,8 +2,8 @@ conio
 conio
 coniooooo
 conio
-coniooooooooooo
-studio cpp cpp cpp cpp cpp cpp cpp cpp  
+coniooooooooo
+studio cpp cpp cpp cpp cpp cpp cpp cpp  hash hash
 studio
 
 
